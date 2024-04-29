@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+	<advance width="623"/>
+	<unicode hex="0054"/>
+	<unicode hex="0074"/>
+	<note>
+		T
+	</note>
+	<outline>
+		<contour>
+			<point x="31" y="688" type="line"/>
+			<point x="25" y="642" type="line"/>
+			<point x="23" y="589" type="line"/>
+			<point x="29" y="588" type="line"/>
+			<point x="39" y="616" type="line"/>
+			<point x="102" y="613" type="line"/>
+			<point x="111" y="625" type="line"/>
+			<point x="34" y="628" type="line"/>
+			<point x="38" y="643" type="line"/>
+			<point x="69" y="643" type="line"/>
+			<point x="71" y="654" type="line"/>
+			<point x="58" y="653" type="line"/>
+			<point x="60" y="662" type="line"/>
+			<point x="101" y="663" type="line"/>
+			<point x="101" y="673" type="line"/>
+			<point x="43" y="672" type="line"/>
+			<point x="44" y="679" type="line"/>
+			<point x="74" y="681" type="line"/>
+			<point x="90" y="688" type="line"/>
+			<point x="129" y="688" type="line"/>
+			<point x="130" y="678" type="line"/>
+			<point x="146" y="676" type="line"/>
+			<point x="213" y="688" type="line"/>
+			<point x="231" y="689" type="line"/>
+			<point x="231" y="702" type="line"/>
+			<point x="158" y="689" type="line"/>
+			<point x="123" y="699" type="line"/>
+			<point x="70" y="701" type="line"/>
+		</contour>
+		<contour>
+			<point x="21" y="412" type="line"/>
+			<point x="40" y="400" type="line"/>
+			<point x="83" y="414" type="line"/>
+			<point x="157" y="404" type="line"/>
+			<point x="165" y="380" type="line"/>
+			<point x="175" y="381" type="line"/>
+			<point x="171" y="404" type="line"/>
+			<point x="206" y="408" type="line"/>
+			<point x="218" y="394" type="line"/>
+			<point x="249" y="394" type="line"/>
+			<point x="252" y="400" type="line"/>
+			<point x="302" y="396" type="line"/>
+			<point x="303" y="390" type="line"/>
+			<point x="242" y="386" type="line"/>
+			<point x="242" y="377" type="line"/>
+			<point x="305" y="377" type="line"/>
+			<point x="305" y="371" type="line"/>
+			<point x="341" y="370" type="line"/>
+			<point x="338" y="392" type="line"/>
+			<point x="347" y="400" type="line"/>
+			<point x="379" y="402" type="line"/>
+			<point x="380" y="410" type="line"/>
+			<point x="408" y="410" type="line"/>
+			<point x="408" y="400" type="line"/>
+			<point x="381" y="397" type="line"/>
+			<point x="381" y="389" type="line"/>
+			<point x="404" y="389" type="line"/>
+			<point x="404" y="381" type="line"/>
+			<point x="368" y="379" type="line"/>
+			<point x="368" y="372" type="line"/>
+			<point x="355" y="372" type="line"/>
+			<point x="355" y="363" type="line"/>
+			<point x="392" y="363" type="line"/>
+			<point x="392" y="370" type="line"/>
+			<point x="405" y="371" type="line"/>
+			<point x="406" y="355" type="line"/>
+			<point x="411" y="355" type="line"/>
+			<point x="413" y="340" type="line"/>
+			<point x="391" y="337" type="line"/>
+			<point x="391" y="331" type="line"/>
+			<point x="414" y="331" type="line"/>
+			<point x="416" y="322" type="line"/>
+			<point x="401" y="322" type="line"/>
+			<point x="401" y="311" type="line"/>
+			<point x="417" y="313" type="line"/>
+			<point x="420" y="290" type="line"/>
+			<point x="427" y="290" type="line"/>
+			<point x="428" y="342" type="line"/>
+			<point x="414" y="387" type="line"/>
+			<point x="430" y="409" type="line"/>
+			<point x="460" y="402" type="line"/>
+			<point x="486" y="421" type="line"/>
+			<point x="481" y="428" type="line"/>
+			<point x="461" y="417" type="line"/>
+			<point x="423" y="422" type="line"/>
+			<point x="394" y="418" type="line"/>
+			<point x="393" y="431" type="line"/>
+			<point x="323" y="409" type="line"/>
+			<point x="225" y="408" type="line"/>
+			<point x="226" y="417" type="line"/>
+			<point x="82" y="421" type="line"/>
+			<point x="76" y="432" type="line"/>
+			<point x="65" y="435" type="line"/>
+			<point x="63" y="414" type="line"/>
+			<point x="35" y="415" type="line"/>
+			<point x="36" y="453" type="line"/>
+			<point x="37" y="512" type="line"/>
+			<point x="24" y="510" type="line"/>
+			<point x="26" y="457" type="line"/>
+		</contour>
+		<contour>
+			<point x="96" y="467" type="line"/>
+			<point x="196" y="453" type="line"/>
+			<point x="196" y="444" type="line"/>
+			<point x="282" y="445" type="line"/>
+			<point x="282" y="452" type="line"/>
+			<point x="151" y="467" type="line"/>
+			<point x="153" y="473" type="line"/>
+			<point x="199" y="473" type="line"/>
+			<point x="199" y="483" type="line"/>
+			<point x="133" y="483" type="line"/>
+			<point x="127" y="475" type="line"/>
+			<point x="96" y="477" type="line"/>
+		</contour>
+		<contour>
+			<point x="147" y="99" type="line"/>
+			<point x="163" y="36" type="line"/>
+			<point x="188" y="21" type="line"/>
+			<point x="191" y="30" type="line"/>
+			<point x="166" y="50" type="line"/>
+			<point x="169" y="67" type="line"/>
+			<point x="161" y="138" type="line"/>
+			<point x="200" y="212" type="line"/>
+			<point x="218" y="227" type="line"/>
+			<point x="221" y="242" type="line"/>
+			<point x="277" y="238" type="line"/>
+			<point x="309" y="225" type="line"/>
+			<point x="413" y="199" type="line"/>
+			<point x="413" y="189" type="line"/>
+			<point x="388" y="185" type="line"/>
+			<point x="388" y="176" type="line"/>
+			<point x="396" y="175" type="line"/>
+			<point x="386" y="149" type="line"/>
+			<point x="385" y="78" type="line"/>
+			<point x="390" y="41" type="line"/>
+			<point x="395" y="42" type="line"/>
+			<point x="415" y="19" type="line"/>
+			<point x="427" y="17" type="line"/>
+			<point x="426" y="-1" type="line"/>
+			<point x="392" y="4" type="line"/>
+			<point x="307" y="1" type="line"/>
+			<point x="281" y="15" type="line"/>
+			<point x="275" y="7" type="line"/>
+			<point x="254" y="19" type="line"/>
+			<point x="245" y="38" type="line"/>
+			<point x="236" y="36" type="line"/>
+			<point x="237" y="21" type="line"/>
+			<point x="266" y="-4" type="line"/>
+			<point x="377" y="-8" type="line"/>
+			<point x="421" y="-12" type="line"/>
+			<point x="484" y="12" type="line"/>
+			<point x="493" y="74" type="line"/>
+			<point x="471" y="165" type="line"/>
+			<point x="477" y="193" type="line"/>
+			<point x="458" y="236" type="line"/>
+			<point x="448" y="236" type="line"/>
+			<point x="463" y="194" type="line"/>
+			<point x="462" y="170" type="line"/>
+			<point x="451" y="159" type="line"/>
+			<point x="482" y="74" type="line"/>
+			<point x="473" y="29" type="line"/>
+			<point x="439" y="6" type="line"/>
+			<point x="426" y="32" type="line"/>
+			<point x="425" y="36" type="line"/>
+			<point x="448" y="35" type="line"/>
+			<point x="449" y="44" type="line"/>
+			<point x="418" y="46" type="line"/>
+			<point x="417" y="39" type="line"/>
+			<point x="408" y="39" type="line"/>
+			<point x="408" y="57" type="line"/>
+			<point x="396" y="59" type="line"/>
+			<point x="396" y="71" type="line"/>
+			<point x="420" y="70" type="line"/>
+			<point x="420" y="81" type="line"/>
+			<point x="393" y="82" type="line"/>
+			<point x="394" y="86" type="line"/>
+			<point x="432" y="87" type="line"/>
+			<point x="432" y="97" type="line"/>
+			<point x="396" y="97" type="line"/>
+			<point x="397" y="102" type="line"/>
+			<point x="431" y="103" type="line"/>
+			<point x="433" y="109" type="line"/>
+			<point x="402" y="113" type="line"/>
+			<point x="403" y="127" type="line"/>
+			<point x="432" y="127" type="line"/>
+			<point x="434" y="136" type="line"/>
+			<point x="401" y="141" type="line"/>
+			<point x="404" y="168" type="line"/>
+			<point x="448" y="168" type="line"/>
+			<point x="448" y="174" type="line"/>
+			<point x="428" y="181" type="line"/>
+			<point x="430" y="201" type="line"/>
+			<point x="420" y="212" type="line"/>
+			<point x="395" y="217" type="line"/>
+			<point x="393" y="224" type="line"/>
+			<point x="409" y="224" type="line"/>
+			<point x="409" y="235" type="line"/>
+			<point x="357" y="235" type="line"/>
+			<point x="358" y="244" type="line"/>
+			<point x="390" y="244" type="line"/>
+			<point x="390" y="253" type="line"/>
+			<point x="303" y="257" type="line"/>
+			<point x="301" y="250" type="line"/>
+			<point x="333" y="243" type="line"/>
+			<point x="333" y="232" type="line"/>
+			<point x="314" y="234" type="line"/>
+			<point x="226" y="257" type="line"/>
+			<point x="208" y="241" type="line"/>
+			<point x="201" y="256" type="line"/>
+			<point x="192" y="250" type="line"/>
+			<point x="198" y="225" type="line"/>
+			<point x="156" y="156" type="line"/>
+		</contour>
+		<contour>
+			<point x="202" y="309" type="line"/>
+			<point x="227" y="310" type="line"/>
+			<point x="227" y="303" type="line"/>
+			<point x="263" y="307" type="line"/>
+			<point x="262" y="320" type="line"/>
+			<point x="202" y="316" type="line"/>
+		</contour>
+		<contour>
+			<point x="251" y="639" type="line"/>
+			<point x="441" y="636" type="line"/>
+			<point x="441" y="630" type="line"/>
+			<point x="477" y="631" type="line"/>
+			<point x="477" y="643" type="line"/>
+			<point x="408" y="644" type="line"/>
+			<point x="404" y="652" type="line"/>
+			<point x="251" y="647" type="line"/>
+		</contour>
+		<contour>
+			<point x="259" y="354" type="line"/>
+			<point x="287" y="354" type="line"/>
+			<point x="287" y="363" type="line"/>
+			<point x="259" y="361" type="line"/>
+		</contour>
+		<contour>
+			<point x="274" y="606" type="line"/>
+			<point x="335" y="602" type="line"/>
+			<point x="341" y="616" type="line"/>
+			<point x="274" y="615" type="line"/>
+		</contour>
+		<contour>
+			<point x="284" y="149" type="line"/>
+			<point x="331" y="142" type="line"/>
+			<point x="334" y="156" type="line"/>
+			<point x="284" y="158" type="line"/>
+		</contour>
+		<contour>
+			<point x="299" y="348" type="line"/>
+			<point x="374" y="346" type="line"/>
+			<point x="375" y="358" type="line"/>
+			<point x="299" y="358" type="line"/>
+		</contour>
+		<contour>
+			<point x="317" y="119" type="line"/>
+			<point x="320" y="108" type="line"/>
+			<point x="341" y="111" type="line"/>
+			<point x="340" y="121" type="line"/>
+		</contour>
+		<contour>
+			<point x="351" y="260" type="line"/>
+			<point x="373" y="260" type="line"/>
+			<point x="373" y="269" type="line"/>
+			<point x="351" y="268" type="line"/>
+		</contour>
+		<contour>
+			<point x="357" y="388" type="line"/>
+			<point x="373" y="388" type="line"/>
+			<point x="373" y="397" type="line"/>
+			<point x="357" y="395" type="line"/>
+		</contour>
+		<contour>
+			<point x="399" y="245" type="line"/>
+			<point x="427" y="245" type="line"/>
+			<point x="427" y="255" type="line"/>
+			<point x="399" y="253" type="line"/>
+		</contour>
+		<contour>
+			<point x="410" y="150" type="line"/>
+			<point x="432" y="149" type="line"/>
+			<point x="433" y="158" type="line"/>
+			<point x="412" y="160" type="line"/>
+		</contour>
+		<contour>
+			<point x="428" y="66" type="line"/>
+			<point x="429" y="58" type="line"/>
+			<point x="448" y="57" type="line"/>
+			<point x="449" y="66" type="line"/>
+		</contour>
+		<contour>
+			<point x="448" y="694" type="line"/>
+			<point x="544" y="689" type="line"/>
+			<point x="533" y="662" type="line"/>
+			<point x="537" y="602" type="line"/>
+			<point x="558" y="560" type="line"/>
+			<point x="570" y="483" type="line"/>
+			<point x="511" y="482" type="line"/>
+			<point x="511" y="473" type="line"/>
+			<point x="572" y="469" type="line"/>
+			<point x="599" y="444" type="line"/>
+			<point x="597" y="437" type="line"/>
+			<point x="561" y="417" type="line"/>
+			<point x="537" y="423" type="line"/>
+			<point x="534" y="415" type="line"/>
+			<point x="569" y="401" type="line"/>
+			<point x="589" y="424" type="line"/>
+			<point x="608" y="431" type="line"/>
+			<point x="608" y="449" type="line"/>
+			<point x="588" y="471" type="line"/>
+			<point x="576" y="509" type="line"/>
+			<point x="569" y="550" type="line"/>
+			<point x="585" y="588" type="line"/>
+			<point x="583" y="610" type="line"/>
+			<point x="590" y="646" type="line"/>
+			<point x="577" y="680" type="line"/>
+			<point x="551" y="702" type="line"/>
+			<point x="452" y="702" type="line"/>
+		</contour>
+		<contour>
+			<point x="549" y="597" type="line"/>
+			<point x="550" y="604" type="line"/>
+			<point x="560" y="604" type="line"/>
+			<point x="559" y="614" type="line"/>
+			<point x="567" y="625" type="line"/>
+			<point x="567" y="631" type="line"/>
+			<point x="549" y="637" type="line"/>
+			<point x="549" y="648" type="line"/>
+			<point x="563" y="650" type="line"/>
+			<point x="565" y="659" type="line"/>
+			<point x="556" y="661" type="line"/>
+			<point x="558" y="666" type="line"/>
+			<point x="573" y="667" type="line"/>
+			<point x="578" y="652" type="line"/>
+			<point x="570" y="571" type="line"/>
+			<point x="565" y="572" type="line"/>
+			<point x="566" y="595" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+11 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHW[ ]	/* 249 values pushed */
+2 1 1 51 13 6 2 52 3 296 294 290 263 213 17 16 7 5 4 297 1 35 34 298 1 6 35 264 1 38 7 288 287 283 266 265 30 29 24 8 20 38 277 274 270 269 108 107 106 104 45 44 42 40 34 28 14 9 49 275 273 43 41 4 8 9 96 1 14 8 47 1 10 14 90 46 2 15 10 245 95 86 73 4 18 15 78 71 2 43 18 91 82 69 48 4 13 17 62 1 16 13 221 65 2 40 16 59 49 2 12 41 241 209 207 53 52 50 6 42 11 114 112 2 22 42 118 111 2 23 22 196 117 113 3 24 23 116 110 2 25 24 253 252 193 192 191 190 189 168 167 164 163 162 131 130 129 15 39 25 230 199 135 134 4 26 45 239 238 237 205 143 141 139 7 27 26 187 169 161 147 4 28 27 200 1 47 28 150 1 46 47 201 155 2 29 46 176 175 2 30 29 203 202 183 179 178 174 159 7 33 30 182 1 32 33 33 76 284 1 4 300 1 7 94 1 8 89 1 10 272 1 15 249 1 22 231 188 2 45 151 1 46 8 75 3 1 48 74 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+12 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHW[ ]	/* 249 values pushed */
+2 1 1 51 13 6 2 52 3 296 294 290 263 213 17 16 7 5 4 297 1 35 34 298 1 6 35 264 1 38 7 288 287 283 266 265 30 29 24 8 20 38 277 274 270 269 108 107 106 104 45 44 42 40 34 28 14 9 49 275 273 43 41 4 8 9 96 1 14 8 47 1 10 14 90 46 2 15 10 245 95 86 73 4 18 15 78 71 2 43 18 91 82 69 48 4 13 17 62 1 16 13 221 65 2 40 16 59 49 2 12 41 241 209 207 53 52 50 6 42 11 114 112 2 22 42 118 111 2 44 22 196 117 113 3 31 23 116 110 2 25 24 253 252 193 192 191 190 189 168 167 164 163 162 131 130 129 15 39 25 230 199 135 134 4 26 45 239 238 237 205 143 141 139 7 27 26 187 169 161 147 4 28 27 200 1 47 28 150 1 46 47 201 155 2 29 46 176 175 2 30 29 203 202 183 179 178 174 159 7 33 30 182 1 32 33 33 76 284 1 4 300 1 7 94 1 8 89 1 10 272 1 15 249 1 22 231 188 2 45 151 1 46 8 75 3 1 48 74 
+ELSE[ ]	/* Else */
+NPUSHW[ ]	/* 249 values pushed */
+2 1 1 51 13 6 2 52 3 296 294 290 263 213 17 16 7 5 4 297 1 35 34 298 1 6 35 264 1 38 7 288 287 283 266 265 30 29 24 8 20 38 277 274 270 269 108 107 106 104 45 44 42 40 34 28 14 9 49 275 273 43 41 4 8 9 96 1 14 8 47 1 10 14 90 46 2 15 10 245 95 86 73 4 18 15 78 71 2 43 18 91 82 69 48 4 13 17 62 1 16 13 221 65 2 40 16 59 49 2 12 41 241 209 207 53 52 50 6 42 11 114 112 2 22 42 118 111 2 23 22 196 117 113 3 24 23 116 110 2 25 24 253 252 193 192 191 190 189 168 167 164 163 162 131 130 129 15 39 25 230 199 135 134 4 26 45 239 238 237 205 143 141 139 7 27 26 187 169 161 147 4 28 27 200 1 47 28 150 1 46 47 201 155 2 29 46 176 175 2 30 29 203 202 183 179 178 174 159 7 33 30 182 1 32 33 33 76 284 1 4 300 1 7 94 1 8 89 1 10 272 1 15 249 1 22 231 188 2 45 151 1 46 8 75 3 1 48 74 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+9 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 22 17 112 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 41 42 114 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 112 0 45 26 22 45 26 126 0 26 27 27 26 112 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 11 27 103 54 1 
+NPUSHB[ ]	/* 39 values pushed */
+47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+11 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 41 42 114 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 112 0 45 26 22 45 26 126 0 26 27 27 26 112 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 11 27 103 54 
+NPUSHB[ ]	/* 40 values pushed */
+1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+12 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 50 21 50 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 41 42 114 0 44 22 23 22 44 23 128 0 23 31 22 23 31 126 0 31 24 22 31 24 126 0 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 112 0 45 26 22 45 26 126 0 26 27 27 26 112 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 20 0 21 49 20 21 103 0 50 0 49 9 50 49 103 0 40 0 41 
+NPUSHB[ ]	/* 53 values pushed */
+12 40 41 104 0 11 0 27 28 11 27 103 54 1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+13 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 41 42 114 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 112 0 45 26 22 45 26 126 0 26 27 27 26 112 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 11 27 103 54 
+NPUSHB[ ]	/* 40 values pushed */
+1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+15 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 41 42 114 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 45 126 0 45 26 22 45 26 126 0 26 27 27 26 112 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 11 27 103 
+NPUSHB[ ]	/* 41 values pushed */
+54 1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+31 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 11 42 22 128 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 45 126 0 45 26 22 45 26 126 0 26 27 27 26 112 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 11 27 
+NPUSHB[ ]	/* 42 values pushed */
+103 54 1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+48 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 112 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 11 42 22 128 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 45 126 0 45 26 22 45 26 126 0 26 27 22 26 27 126 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 11 
+NPUSHB[ ]	/* 43 values pushed */
+27 103 54 1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 255 values pushed */
+0 3 1 52 1 3 114 0 52 4 1 52 4 126 0 4 5 1 4 5 126 0 5 34 1 5 34 126 0 19 20 21 20 19 21 128 0 9 49 8 10 9 114 0 8 14 49 8 14 126 0 14 10 49 14 10 126 0 10 15 49 10 15 126 0 15 18 49 15 18 126 0 18 43 49 18 43 126 0 43 17 49 43 17 126 0 17 13 49 17 13 126 0 13 16 40 13 112 0 16 40 49 16 40 126 0 36 40 41 40 36 41 128 0 12 41 11 41 12 11 128 0 42 11 22 11 42 22 128 44 1 23 22 24 22 23 24 128 31 1 24 25 22 24 112 0 25 39 22 25 39 126 0 39 45 22 39 45 126 0 45 26 22 45 26 126 0 26 27 22 26 27 126 0 28 27 47 27 28 114 0 46 47 29 30 46 114 0 29 30 47 29 30 126 0 33 30 32 30 33 32 128 0 34 0 35 6 34 35 103 0 6 0 7 38 6 7 103 0 37 53 1 38 20 37 38 103 0 21 49 20 21 87 50 1 20 0 49 9 20 49 103 0 40 0 41 12 40 41 104 0 11 0 27 28 
+NPUSHB[ ]	/* 44 values pushed */
+11 27 103 54 1 47 0 30 33 47 30 103 0 51 51 48 95 0 48 48 25 77 2 1 1 1 0 95 0 0 0 25 77 0 22 22 32 96 0 32 32 26 32 78 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHW[ ]	/* 106 values pushed */
+256 256 302 301 292 291 286 285 281 280 279 278 261 260 256 259 256 259 258 257 255 254 251 250 247 246 243 242 235 234 233 232 229 228 227 226 225 224 223 222 219 216 215 214 181 180 173 172 166 165 157 156 153 152 149 148 145 144 137 136 126 125 124 123 122 121 120 119 102 101 100 99 98 97 88 87 84 83 80 79 77 76 75 74 67 66 57 56 55 54 39 38 37 36 25 17 17 19 19 17 19 19 16 55 7 31 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>
